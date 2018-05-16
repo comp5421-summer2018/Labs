@@ -8,6 +8,8 @@ using namespace std;
 
 int main()
 {
+    // Original exercises found at: https://users.encs.concordia.ca/~y_alahm/Comp%205421/
+
     // ------------------------------------------------
     // C++ 11 Array (Not built-in C++98 array)
     // ------------------------------------------------
